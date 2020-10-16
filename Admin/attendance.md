@@ -10,7 +10,7 @@
 | 10/6/20 | Sponsor Meeting | Meeting Canceled |
 | 10/7/20 | Team Meeting | Chris, Bryce, Luke, Jacob, Nick|
 | 10/13/20 | Sponsor Meeting |Chris, Nick, Jacob, Joe |
-| 10/14/20 | Team Meeting | |
+| 10/14/20 | Team Meeting |Chris, Jacob, Nick |
 | 10/13/20 | Sponsor Meeting |  |
 | 10/14/20 | Team Meeting | |
 | 10/13/20 | Sponsor Meeting |  |
