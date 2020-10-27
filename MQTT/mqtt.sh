@@ -1,3 +1,17 @@
+#!/bin/bash
+sudo apt update
+sudo apt install snapd
+snap install mosquitto
+sudo apt install python3-pip
+pip3 install paho-mqtt
+#install location
+#cd /home/$(whoami)/.local/lib/python3.8/site-packages/paho/mqtt
+#if you want wireshark
+#sudo apt install wireshark
+cd ~/Desktop
+
+
+
 #make client
 echo 
 'import paho.mqtt.client as mqtt
