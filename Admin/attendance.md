@@ -15,7 +15,7 @@
 | 10/21/20 | Team Meeting |Chris, Jacob, Nick, Bryce|
 | 10/25/20 | Team Meeting |Chris, Jacob, Nick|
 | 11/3/20 | Sponsor Meeting |Chris,Jacob,Nick,Joe|
-| 11/9/20 | Team Meeting |Chris,Jacob,Nick|
-| 11/10/20 | Sponsor Meeting |Chris,Jacob,Nick,Joe|
+| 11/9/20 | Team Meeting |Chris, Jacob, Nick|
+| 11/10/20 | Sponsor Meeting |Chris, Jacob, Nick, Joe|
 
 
