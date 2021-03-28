@@ -1,0 +1,98 @@
+{
+  "payloads": {
+    "payload": [
+      {
+        "description": "single event",
+        "events": [
+          {
+            "event": 1,
+            "timestamp": 1615968000
+          }
+        ]
+      },
+      {
+        "description": "single event with data",
+        "events": [
+          {
+            "event": 100,
+            "timestamp": 1615968060,
+            "data": 2051
+          }
+        ]
+      },
+      {
+        "description": "location event",
+        "events": [
+          {
+            "event": 140,
+            "timestamp": 1615968120,
+            "data": {
+              "latitude": 38.8895,
+              "longitude": -77.0353,
+              "numSats": 9,
+              "altitude": 178.31,
+              "bearing": 92.2,
+              "speed": 35.4,
+              "fixMethod": 4,
+              "accuracy": 5,
+              "cellStrength": 3,
+              "uncertainty": 2,
+              "uncertaintyA": 34,
+              "uncertaintyP": 6,
+              "optFieldMask": 0
+            }
+          }
+        ]
+      },
+      {
+        "description": "multiple events",
+        "events": [
+          {
+            "event": 2,
+            "timestamp": 1615968240
+          },
+          {
+            "event": 4,
+            "timestamp": 1615971940
+          },
+          {
+            "event": 1,
+            "timestamp": 1616065540
+          },
+          {
+            "event": 2,
+            "timestamp": 1616068240
+          },
+          {
+            "event": 3,
+            "timestamp": 1616068330
+          },
+          {
+            "event": 1,
+            "timestamp": 1616068450
+          },
+          {
+            "event": 2,
+            "timestamp": 1616068755
+          },
+          {
+            "event": 3,
+            "timestamp": 1616069390
+          },
+          {
+            "event": 2,
+            "timestamp": 1616069430
+          },
+          {
+            "event": 4,
+            "timestamp": 1616073630
+          },
+          {
+            "event": 3,
+            "timestamp": 1616073730
+          }
+        ]
+      }
+    ]
+  }
+}
