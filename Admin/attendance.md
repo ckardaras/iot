@@ -37,4 +37,8 @@
 | 3/11/20 | Sponsor Meeting |Chris, Jacob, Nick, Joe|
 | 3/15/20 | Team Meeting |Chris, Jacob, Nick|
 | 3/16/20 | Sponsor Meeting |Chris, Jacob, Nick, Joe|
-| 3/16/20 | Team Meeting |Chris, Jacob, Nick, Bryce|
+| 3/16/20 | TA Meeting |Chris, Jacob, Nick, Bryce|
+| 3/23/20 | Sponsor Meeting |Chris, Jacob, Nick, Joe|
+| 3/23/20 | Team Meeting |Chris, Jacob, Nick|
+| 3/30/20 | Sponsor Meeting |Chris, Jacob, Nick, Joe|
+| 3/30/20 | TA Meeting |Chris, Jacob, Nick, Bryce|
