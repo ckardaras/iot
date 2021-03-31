@@ -1,6 +1,6 @@
 {
   "payloads": {
-	"version" : 1
+	"version" : 1,
     "payload": [
       {
         "description": "single event",
