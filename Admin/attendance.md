@@ -46,3 +46,6 @@
 | 4/6/21 | Team Meeting |Chris, Jacob, Nick|
 | 4/13/21 | Sponsor Meeting |Chris, Jacob, Nick, Joe|
 | 4/13/21 | TA Meeting |Chris, Jacob, Nick, Bryce|
+| 4/19/21 | Team Meeting |Chris, Jacob, Nick|
+| 4/20/21 | Sponsor Meeting |Chris, Jacob, Nick, Joe|
+| 4/20/21 | Team Meeting |Chris, Jacob, Nick|
